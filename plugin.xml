@@ -18,7 +18,7 @@
 	<!-- android -->
 	<platform name="android">
 		<config-file target="res/xml/config.xml" parent="/*">
-			<feature name="EYCAppPreferences" >
+			<feature name="AppPreferences" >
 				<param name="android-package" value="me.apla.cordova.AppPreferences"/>
 			</feature>
 		</config-file>
